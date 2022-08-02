@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### 📫 How to reach me: ian713hansson@gmail.com
+### ⚡ Fun fact: I studied Buddhism and Meditation at Naropa University
+## and worked as a Chef for 20 years before jumping into this exciting new career
 <!--
 **ian713hansson/ian713hansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
